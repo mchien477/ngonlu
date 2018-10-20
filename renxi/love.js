@@ -169,7 +169,7 @@
             ctx.moveTo(0, 0);
             ctx.scale(0.75, 0.75);
             ctx.font = "12px Verdana";
-            ctx.fillText("Chạm ❤ anh", 23, 10);
+            ctx.fillText("Chạm vô đây nèk :))", 23, 10);
             ctx.restore();
         },
         clear: function() {
